@@ -569,7 +569,7 @@ strong {
   bottom: 0;
   left: 0;
   pointer-events: none;
-  background-color: rgba(0, 0, 0, 0.45);
+  background-color: rgba(0, 0, 0, 0.45); 
 }
 
 .hero-section .row {
@@ -605,7 +605,7 @@ strong {
 }
 
 .featured-section::after {
-  content: "";
+  /*content: "";*/
   position: absolute;
   bottom: 0;
   right: 0;

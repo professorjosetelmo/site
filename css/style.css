@@ -14,7 +14,7 @@ https://templatemo.com/tm-588-ebook-landing
   --primary-color:                #E76F51;
   --secondary-color:              #E9C46A;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #61f4e8;
+  --custom-btn-bg-color:          #a8512e;
   --custom-btn-bg-hover-color:    #E76F51;
   --dark-color:                   #000000;
   --p-color:                      #717275;
@@ -791,18 +791,7 @@ strong {
   overflow: hidden;
 }
 
-.contact-section::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 450px 450px 0 0;
-  border-color: var(--white-color) transparent transparent;
-  pointer-events: none;
-}
+
 
 .contact-section .container {
   position: relative;

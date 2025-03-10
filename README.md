@@ -1,3 +1,2 @@
-# site
-
-site de trabalho educacional 2023
+# Bem-vindo!
+Este é um simples site de trabalho educacional.
